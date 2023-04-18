@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+.cabecalho {
+    background-color:040937;
+    color: 40937px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
